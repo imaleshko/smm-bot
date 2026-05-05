@@ -8,7 +8,7 @@ import com.google.genai.types.Part;
 
 public class Gemini {
 
-    private static final String MODEL = "gemini-2.5-flash";
+    private static final String MODEL = "gemini-3.1-flash-lite-preview";
 
     private final Client client = new Client();
 
